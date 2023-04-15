@@ -5,7 +5,7 @@ session_start();
 <html>
 	<head>
 		<title>Online Notice Board</title>
-		<link rel="stylesheet" href="css/bootstrap.css"/>
+		<link rel="stylesheet" href="bootstrap.css"/>
 		<script src="js/jquery_library.js"></script>
 <script src="js/bootstrap.min.js"></script>
 	</head>
